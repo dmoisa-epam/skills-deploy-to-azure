@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: вьщшыф-azure-ttt
-  AZURE_WEBAPP_NAME: вьщшыф-ttt-app
+  DOCKER_IMAGE_NAME: dmoisa-epam-azure-ttt
+  AZURE_WEBAPP_NAME: dmoisa-epam-ttt-app
   ###############################################
 
 jobs:
